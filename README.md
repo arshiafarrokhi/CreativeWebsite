@@ -1,6 +1,6 @@
 #Project5_CreativeWebsite
 
-- [Demo Project](https://arshiafarrokhi.github.io/Project5_CreativeWebsite/)
+- [Demo Project](https://arshiafarrokhi.github.io/CreativeWebsite/)
 
 - Developed by arshia farrokhi
 
